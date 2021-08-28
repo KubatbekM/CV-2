@@ -95,3 +95,7 @@ a {
 a:hover {
   color: #eaf6f6;
 }
+.edu-table {
+  margin: 0 auto;
+  text-align: left;
+}
